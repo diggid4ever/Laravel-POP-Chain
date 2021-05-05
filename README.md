@@ -5,6 +5,7 @@
 挖掘、收集、总结关于Laravel的一些链子，目前完成了
 - Laravel 5.7-5.8 的大部分可以RCE/webshell的链子
 - Laravel 7 的大部分可以RCE/webshell的链子
+
 待办：
 - Laravel 8 debug模式下的phar&SSRF利用的链子 
 - Laravel 其他版本可能存在的链子(尝试挖掘其他RCE/非RCE，如SQL注入之类的链子)
